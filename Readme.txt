@@ -7,6 +7,11 @@ Installation
 
 Copy GameData folder to root of your KSP game folder.
 
+To use the alternate texture for the command module, grab the file command_module_difuse.dds and copy it to
+GameData\IncredibleMachines\Asimov\Parts\asimov_commandmodule. When prompted to replace, confirm it.
+
+I'll try to have a better system in a future release.
+
 Known Issues
 -------------------------------------------
 
@@ -15,6 +20,10 @@ Known Issues
 
 ChangeLog
 -------------------------------------------
+13/11/2016 - Beta 0.1.1
+- Removed black panel on the Command Module
+- Included alternate texture for the Command Module without the name. For now it has to be replaced by hand. Couldn't get Firespitter to do it.
+
 04/11/2016 - Beta 0.1.0
 - New Textures for all parts
 - New Models for Fuel Tank and Reactions Wheels
