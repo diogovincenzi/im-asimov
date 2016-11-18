@@ -20,7 +20,7 @@ Known Issues
 
 ChangeLog
 -------------------------------------------
-13/11/2016 - Beta 0.1.2
+17/11/2016 - Beta 0.1.2
 - Adds ability to switch between the named version of the command pod and nameless one. Requires Firespitter. ** Thanks Vrana! **
 - Changed tech required for the Fuel Tank.
 
