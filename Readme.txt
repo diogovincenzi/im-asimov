@@ -20,6 +20,10 @@ Known Issues
 
 ChangeLog
 -------------------------------------------
+13/11/2016 - Beta 0.1.2
+- Adds ability to switch between the named version of the command pod and nameless one. Requires Firespitter. ** Thanks Vrana! **
+- Changed tech required for the Fuel Tank.
+
 13/11/2016 - Beta 0.1.1
 - Removed black panel on the Command Module
 - Included alternate texture for the Command Module without the name. For now it has to be replaced by hand. Couldn't get Firespitter to do it.
